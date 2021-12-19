@@ -2,6 +2,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
 
+
+### Contact with me:
+
+<a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/cihatsnl34" height=20>
+</a>
+ <a href="https://twitter.com/cihatsnl34" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
+</a>
 <!--
 **cihatsnl34/cihatsnl34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
