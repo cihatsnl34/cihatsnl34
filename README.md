@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
+
 <br><br>
   <summary>📈 Github statistics</summary>
   <hr>
 
   ![cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
-  <br>
+  <br><br>
   ![cihat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact)
 
 
