@@ -1,8 +1,4 @@
-### Hi there I'm Cihat Şenel👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
-
-
+### Hi there I'm Cihat👋
 ### Contact with me:
 
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/" target="_blank">
@@ -11,6 +7,16 @@
  <a href="https://twitter.com/cihatsnl34" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
+<br><br>
+  <summary>📈 Github statistics</summary>
+  <hr>
+
+  ![cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
+  ![cihat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact)
+
+
 <!--
 **cihatsnl34/cihatsnl34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
