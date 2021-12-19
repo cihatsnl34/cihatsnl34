@@ -10,12 +10,16 @@ I am a passionate software developer and studying Software Engineering at Celal 
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
 </a>
 <br><br>
-  <summary>📈 Github statistics</summary>
-  <hr>
+**👨🏻‍💻 Technologies I have worked with until today:** 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-  ![cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
-  <br><br>
-  ![cihat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cihatsnl34&theme=dracula&column=7" alt="cihatsnl34" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="cihatsnl34" width="50%" /></p>
 
 
 <!--
