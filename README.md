@@ -1,4 +1,6 @@
 ### Hi there I'm Cihat👋
+I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
+<br>
 ### Contact with me:
 
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/" target="_blank">
