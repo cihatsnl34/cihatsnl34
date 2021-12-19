@@ -14,6 +14,7 @@
   <hr>
 
   ![cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical)
+  <br>
   ![cihat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact)
 
 
