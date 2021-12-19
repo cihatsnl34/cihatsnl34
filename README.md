@@ -11,6 +11,7 @@ I am a passionate software developer and studying Software Engineering at Celal 
 </a>
 <br><br>
 **👨🏻‍💻 Technologies I have worked with until today:** 
+<br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
