@@ -1,15 +1,14 @@
 ### Hi there I'm Cihat👋
 I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
 <br>
-### Contact with me:
+<h1>Contact</h1>
 
-<a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/cihatsnl34" height=20>
+
+<a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
+<a href="mailto:cihat-cy@hotmail.com">
+<img title="E-mail" 
+src="https://img.shields.io/badge/-cihat-cy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@hotmail.com">
 </a>
- <a href="https://twitter.com/cihatsnl34" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
-</a>
-<br>
 
 <br><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cihatsnl34&theme=dracula&column=7" alt="cihatsnl34" /></p>
