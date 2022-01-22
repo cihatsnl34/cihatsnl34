@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there I'm Cihat👋
 I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
 <br>
@@ -5,9 +6,9 @@ I am a passionate software developer and studying Software Engineering at Celal 
 
 
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
-<a href="mailto:cihat-cy@gmail.com">
-<img title="Email" 
-src="https://img.shields.io/badge/-cihat-cy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@gmail.com">
+<a href="mailto:onurgoz98@gmail.com">
+<img title="Gmail" 
+src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onurgoz98@gmail.com">
 </a>
 
 <br><br>
@@ -16,6 +17,7 @@ src="https://img.shields.io/badge/-cihat-cy@gmail.com-c14438?style=flat-square&l
 
   <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>
 <div  align="center"> <img src="https://github.com/cihatsnl34/cihatsnl34/blob/output/github-contribution-grid-snake.svg" /></div>
+  </div>
 <!--
 **cihatsnl34/cihatsnl34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
