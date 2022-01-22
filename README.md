@@ -11,7 +11,7 @@ I am a passionate software developer and studying Software Engineering at Celal 
 <img title="Email" 
 src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@hotmail.com">
 </a>
-
+<h1>Status</h1>
 <br><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cihatsnl34&theme=dracula&column=7" alt="cihatsnl34" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="cihatsnl34" width="50%" /></p>
