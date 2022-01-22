@@ -12,12 +12,7 @@ I am a passionate software developer and studying Software Engineering at Celal 
 <br><br>
 **👨🏻‍💻 Technologies I have worked with until today:** 
 <br>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
 <br><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cihatsnl34&theme=dracula&column=7" alt="cihatsnl34" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="cihatsnl34" width="50%" /></p>
