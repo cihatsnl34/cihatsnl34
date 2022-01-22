@@ -7,7 +7,7 @@ I am a passionate software developer and studying Software Engineering at Celal 
 
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
 <a href="mailto:cihat-cy@hotmail.com">
-<img title="Gmail" 
+<img title="Email" 
 src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@hotmail.com">
 </a>
 
