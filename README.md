@@ -1,5 +1,6 @@
 <div align="center">
-### Hi there I'm Cihat👋
+<h1>Who am i</h1>
+Hi there I'm Cihat👋
 I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
 <br>
 <h1>Contact</h1>
