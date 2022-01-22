@@ -9,8 +9,6 @@ I am a passionate software developer and studying Software Engineering at Celal 
  <a href="https://twitter.com/cihatsnl34" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/cihatsnl34" height=20>
 </a>
-<br><br>
-**👨🏻‍💻 Technologies I have worked with until today:** 
 <br>
 
 <br><br>
