@@ -12,13 +12,14 @@ I am a passionate software developer and studying Software Engineering at Celal 
 src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@hotmail.com">
 </a>
 <h1>Status</h1>
-<br><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cihatsnl34&theme=dracula&column=7" alt="cihatsnl34" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="cihatsnl34" width="50%" /></p>
-
-  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>
-<div align="center"> <img src="https://github.com/cihatsnl34/cihatsnl34/blob/output/github-contribution-grid-snake.svg" /></div>
-  </div>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&&show_icons=true&theme=dark&line_height=27&v=5" alt="CihatSenel's GitHub Stats" /><br>
+ </p>
+ <p align="center">
+ <a href="https://github.com/cihatsnl34"><img title="CihatSenel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=dark"></a><br>
+</p>
+  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/cihatsnl34/cihatsnl34/blob/output/github-contribution-grid-snake.svg" /></div>
 <!--
 **cihatsnl34/cihatsnl34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
