@@ -18,7 +18,7 @@ src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&
  <p align="center">
  <a href="https://github.com/cihatsnl34"><img title="CihatSenel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=dark"></a><br>
 </p>
-  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>
+ <!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>-->
 <!--<div  align="center"> <img src="https://github.com/cihatsnl34/cihatsnl34/blob/output/github-contribution-grid-snake.svg" /></div>-->
 <!--
 **cihatsnl34/cihatsnl34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
