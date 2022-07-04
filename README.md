@@ -5,9 +5,9 @@ I am a passionate software developer and studying Software Engineering at Celal 
 <br>
 <h1>Contact</h1>
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
-<a href="mailto:cihat-cy@hotmail.com">
+<a href="mailto:cihatsenell@gmail.com">
 <img title="Email" 
-src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihat-cy@hotmail.com">
+src="https://img.shields.io/badge/-cihatcy@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihatsenell@gmail.com">
 </a>
 <h1>Status</h1>
  <p align="center">
