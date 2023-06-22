@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Who am i</h1>
 Hi there I'm Cihat👋
-I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
+I am a passionate software engineer. I love to develop projects and create things here.
 <br>
 <h1>Contact</h1>
 <a href="https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
