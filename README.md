@@ -9,13 +9,13 @@ I am a passionate software engineer. I love to develop projects and create thing
 <img title="Email" 
 src="https://img.shields.io/badge/-cihatsenell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihatsenell@gmail.com">
 </a>
-<h1>Status</h1>
+<!-- <h1>Status</h1>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&&show_icons=true&theme=dark&line_height=27&v=5" alt="CihatSenel's GitHub Stats" /><br>
  </p>
  <p align="center">
  <a href="https://github.com/cihatsnl34"><img title="CihatSenel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=dark"></a><br>
-</p>
+</p> -->
 
 
  <!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cihatsnl34&theme=xcode" /></div>-->
