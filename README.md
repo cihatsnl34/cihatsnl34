@@ -10,6 +10,16 @@ I am a passionate software engineer. I love to develop projects and create thing
 src="https://img.shields.io/badge/-cihatsenell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cihatsenell@gmail.com">
 </a>
 <!-- <h1>Status</h1>
+ <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cihatsnl34?cardType=level&theme=dark&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cihatsnl34&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cihatsnl34&&show_icons=true&theme=dark&line_height=27&v=5" alt="CihatSenel's GitHub Stats" /><br>
  </p>
