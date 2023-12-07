@@ -12,7 +12,7 @@ src="https://img.shields.io/badge/-cihatsenell@gmail.com-c14438?style=flat-squar
 <h1>Status</h1>
  <div align="center">
 
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihatsnl34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cihatsnl34?cardType=level&theme=dark&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
 
